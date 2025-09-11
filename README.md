@@ -3,6 +3,9 @@
 This project is a **SQL-based analysis** of a cars dataset.  
 It explores car prices, manufacturers, fuel types, kilometers driven, and other attributes to extract insights into the automobile market.  
 
+Dataset Link:-
+https://github.com/Vishal132003/cars-database-analysis/blob/main/cars_price.sql
+
 ### 🔹 Basic
 1. Retrieve the total number of cars available  
 2. Find the average price of all cars  
